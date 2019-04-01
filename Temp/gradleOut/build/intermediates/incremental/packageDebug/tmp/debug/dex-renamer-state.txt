@@ -1,0 +1,4 @@
+#Tue Apr 02 00:48:16 IST 2019
+base.0=/Users/macbookproretina/AR_J.A.R.V.I.S/Temp/gradleOut/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

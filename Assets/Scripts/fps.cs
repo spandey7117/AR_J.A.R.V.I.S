@@ -1,8 +1,9 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 
 public class fps : MonoBehaviour {
 
-    public TextMesh text;
+    public TextMeshPro text;
 
     readonly float updateInterval = 0.1F;
     float accum = 0; // FPS accumulated over the intervalint 
@@ -10,7 +11,7 @@ public class fps : MonoBehaviour {
     float timeleft; // Left time for current interval
 
     void Start() {
-        text = GetComponent<TextMesh>();
+        text = GetComponent<TextMeshPro>();
         timeleft = updateInterval;
     }
 

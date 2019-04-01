@@ -10,6 +10,8 @@ TagManager:
   - leftBody
   - rightBody
   - agent
+  - controller
+  - fps
   layers:
   - Default
   - TransparentFX
