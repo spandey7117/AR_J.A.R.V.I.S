@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaScripts", "VuforiaScripts.csproj", "{CC192C09-E286-09B3-469D-FA62ED15EFBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{EEF0EB7D-A52D-E9E7-BC08-06F1E4E38BA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaEditorScripts", "VuforiaEditorScripts.csproj", "{B3C1AD0C-290C-B2D2-3B0B-D72A6FC7D385}"
 EndProject
@@ -15,18 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC192C09-E286-09B3-469D-FA62ED15EFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CC192C09-E286-09B3-469D-FA62ED15EFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC192C09-E286-09B3-469D-FA62ED15EFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC192C09-E286-09B3-469D-FA62ED15EFBF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EEF0EB7D-A52D-E9E7-BC08-06F1E4E38BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EEF0EB7D-A52D-E9E7-BC08-06F1E4E38BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EEF0EB7D-A52D-E9E7-BC08-06F1E4E38BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EEF0EB7D-A52D-E9E7-BC08-06F1E4E38BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B3C1AD0C-290C-B2D2-3B0B-D72A6FC7D385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B3C1AD0C-290C-B2D2-3B0B-D72A6FC7D385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3C1AD0C-290C-B2D2-3B0B-D72A6FC7D385}.Release|Any CPU.ActiveCfg = Release|Any CPU
