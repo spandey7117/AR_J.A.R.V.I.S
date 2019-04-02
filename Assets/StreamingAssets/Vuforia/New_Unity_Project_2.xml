@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Unknown" size="0.100000 0.070149" />
+    <ImageTarget name="vector-hud-background-and-element-background-set" size="0.100000 0.070000" />
+  </Tracking>
+</QCARConfig>

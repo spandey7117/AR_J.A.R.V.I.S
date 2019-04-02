@@ -19,10 +19,10 @@ public class DisplayBehavior : MenuElement {
         GetComponent<YouTubeAPI>().LoadVideo(url, () => SetLoading(false));
     }
 
-    public void LoadWebsite(string name) {
+    public void LoadWebsite(string url) {
         StopVideoPlayer();
         SetLoading(true);
-        string url = "www." + name + ".com";
+       
         GetComponent<WebsiteAPI>().LoadImage(url, () => SetLoading(false));
     }
 

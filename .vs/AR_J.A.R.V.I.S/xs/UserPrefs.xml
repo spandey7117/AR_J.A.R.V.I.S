@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{AE013FCA-70C3-9BF3-73E0-830AEB8A969E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/YouTubeAPI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleStreaming.cs">
     <Files>
-      <File FileName="Assets/Scripts/controllerScript.cs" Line="22" Column="23" />
-      <File FileName="Assets/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleStreaming.cs" Line="250" Column="74" />
-      <File FileName="Assets/Scripts/WebsiteAPI.cs" Line="11" Column="59" />
-      <File FileName="Assets/ApiAiSDK/ApiAiUnity.cs" Line="225" Column="23" />
-      <File FileName="Assets/Scripts/Classification.cs" Line="8" Column="1" />
-      <File FileName="Assets/Scripts/integrator.cs" Line="40" Column="34" />
-      <File FileName="Assets/unity-sdk-2.15.0/Scripts/Debug/DebugReactor.cs" Line="67" Column="1" />
+      <File FileName="Assets/Scripts/controllerScript.cs" Line="17" Column="24" />
+      <File FileName="Assets/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleStreaming.cs" Line="304" Column="59" />
+      <File FileName="Assets/Scripts/WebsiteAPI.cs" Line="28" Column="25" />
+      <File FileName="Assets/ApiAiSDK/ApiAiUnity.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Classification.cs" Line="117" Column="1" />
+      <File FileName="Assets/Scripts/integrator.cs" Line="79" Column="6" />
+      <File FileName="Assets/unity-sdk-2.15.0/Scripts/Debug/DebugReactor.cs" Line="76" Column="1" />
       <File FileName="Assets/Scripts/QueryBehavior.cs" Line="8" Column="30" />
-      <File FileName="Assets/Scripts/DisplayBehavior.cs" Line="19" Column="40" />
-      <File FileName="Assets/Scripts/YouTubeAPI.cs" Line="37" Column="17" />
+      <File FileName="Assets/Scripts/DisplayBehavior.cs" Line="38" Column="7" />
+      <File FileName="Assets/Scripts/YouTubeAPI.cs" Line="69" Column="38" />
       <File FileName="Assets/Scripts/fps.cs" Line="14" Column="40" />
+      <File FileName="Assets/NewBehaviourScript.cs" Line="11" Column="54" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="74" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

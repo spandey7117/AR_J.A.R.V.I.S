@@ -12,6 +12,12 @@ TagManager:
   - agent
   - controller
   - fps
+  - screen1
+  - screen1o
+  - screen2
+  - screen2o
+  - name1
+  - name2
   layers:
   - Default
   - TransparentFX

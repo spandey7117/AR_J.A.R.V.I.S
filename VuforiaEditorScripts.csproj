@@ -322,6 +322,24 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>/Users/macbookproretina/AR_J.A.R.V.I.S/Assets/ML-Agents 1/Plugins/System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>/Users/macbookproretina/AR_J.A.R.V.I.S/Assets/ML-Agents 1/Plugins/System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="TensorFlowSharp">
+      <HintPath>/Users/macbookproretina/AR_J.A.R.V.I.S/Assets/ML-Agents 1/Plugins/Computer/TensorFlowSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="fastJSON">
+      <HintPath>/Users/macbookproretina/AR_J.A.R.V.I.S/Assets/ApiAiSDK/lib/fastJSON.dll</HintPath>
+    </Reference>
+    <Reference Include="ApiAiSDK">
+      <HintPath>/Users/macbookproretina/AR_J.A.R.V.I.S/Assets/ApiAiSDK/lib/ApiAiSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="websocket-sharp">
+      <HintPath>/Users/macbookproretina/AR_J.A.R.V.I.S/Assets/unity-sdk-2.15.0/Plugins/websocket-sharp.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>/Users/macbookproretina/AR_J.A.R.V.I.S/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
